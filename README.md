@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -26,7 +26,7 @@
 </head>
 <body>
   <header>
-    <img src="img/HTML/Barato.jpg" alt="Logo da loja">
+    <img src=E:\Downloads\Progeto 01\img\HTML\Barato.jpg"" alt="Logo da loja">
     <h1>Arnhold Style</h1>
     <nav>
       <a href="#" onclick="mostrarAba('loja')">Loja</a>
@@ -39,35 +39,35 @@
   <section id="loja" class="aba ativa">
     <div class="produtos">
       <div class="card">
-        <img src="img/HTML/8128yLLVZlL._AC_SX522_ (1).jpg" alt="Camiseta">
+        <img src="E:\Downloads\Progeto 01\img\HTML\8128yLLVZlL._AC_SX522_ (1).jpg" alt="Camiseta">
         <h3>Camiseta Polo Lacoste</h3>
         <p class="preco">R$ 179,90</p>
         <button onclick="adicionarCarrinho('Camiseta Polo Lacoste', 179.90, '5e9204e3-a89a-4edc-9b81-ab1bb62b9b5c')">Adicionar ao Carrinho</button>
       </div>
 
       <div class="card">
-        <img src="img/HTML/OIP.webp" alt="Tênis">
+        <img src="E:\Downloads\Progeto 01\img\HTML\OIP.webp" alt="Tênis">
         <h3>Tênis Olympikus</h3>
         <p class="preco">R$ 299,90</p>
         <button onclick="adicionarCarrinho('Tênis Olympikus', 299.90, '5e9204e3-a89a-4edc-9b81-ab1bb62b9b5c')">Adicionar ao Carrinho</button>
       </div>
 
       <div class="card">
-        <img src="img/HTML/51SbDFGmdYL._AC_SY500_.jpg" alt="Tênis">
+        <img src="E:\Downloads\Progeto 01\img\HTML\51SbDFGmdYL._AC_SY500_.jpg" alt="Tênis">
         <h3>Tênis OUS</h3>
         <p class="preco">R$ 359,90</p>
         <button onclick="adicionarCarrinho('Tênis OUS', 359.90, '5e9204e3-a89a-4edc-9b81-ab1bb62b9b5c')">Adicionar ao Carrinho</button>
       </div>
 
       <div class="card">
-        <img src="img/HTML/Nike.webp" alt="Tênis">
+        <img src="E:\Downloads\Progeto 01\img\HTML\Nike.webp" alt="Tênis">
         <h3>Tênis Nike Air Max</h3>
         <p class="preco">R$ 499,90</p>
         <button onclick="adicionarCarrinho('Tênis Nike Air Max', 499.90, '5e9204e3-a89a-4edc-9b81-ab1bb62b9b5c')">Adicionar ao Carrinho</button>
       </div>
 
       <div class="card">
-        <img src="img/HTML/8128yLLVZlL._AC_SX522_ (1).jpg" alt="Camisa">
+        <img src="E:\Downloads\Progeto 01\img\HTML\OIP (1).webp" alt="Camisa">
         <h3>Camisa Basica</h3>
         <p class="preco">R$ 79,90</p>
         <button onclick="adicionarCarrinho('Camisa Basica', 79.90, '5e9204e3-a89a-4edc-9b81-ab1bb62b9b5c')">Adicionar ao Carrinho</button>
